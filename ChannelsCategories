@@ -7,7 +7,7 @@
     },
     {
       "name": "Azam Sports 2 HD",
-      "url": "http://example.com/channel2",
+      "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=2"
     },
     {
@@ -17,97 +17,96 @@
     },
     {
       "name": "Azam Sports 4 HD",
-      "url": "http://example.com/channel4",
+      "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=4"
     }
   ],
   "Habari": [
     {
       "name": "BBC Swahili",
-      "url": "http://example.com/news1",
+      "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=5"
     },
     {
       "name": "TBC 1",
-      "url": "http://example.com/news2",
+      "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=6"
     },
     {
       "name": "Abood TV",
-      "url": "http://example.com/news3",
+      "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=7"
     },
     {
       "name": "Channel 10",
-      "url": "http://example.com/news4",
+      "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=8"
     }
   ],
   "Wanyama": [
     {
       "name": "Wildlife Channel 1",
-      "url": "http://example.com/wildlife1",
+      "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=9"
     },
     {
       "name": "Wildlife Channel 2",
-      "url": "http://example.com/wildlife2",
+      "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=10"
     },
     {
       "name": "Wildlife Channel 3",
-      "url": "http://example.com/wildlife3",
+      "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=11"
     },
     {
       "name": "Wildlife Channel 4",
-      "url": "http://example.com/wildlife4",
+      "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=12"
     }
   ],
   "Movies": [
     {
       "name": "Movies Channel 1",
-      "url": "http://example.com/movies1",
+      "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=13"
     },
     {
       "name": "Movies Channel 2",
-      "url": "http://example.com/movies2",
+      "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=14"
     },
     {
       "name": "Movies Channel 3",
-      "url": "http://example.com/movies3",
+      "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=15"
     },
     {
       "name": "Movies Channel 4",
-      "url": "http://example.com/movies4",
+      "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=16"
     }
   ],
   "Tamthilia": [
     {
       "name": "Drama Channel 1",
-      "url": "http://example.com/drama1",
+      "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=17"
     },
     {
       "name": "Drama Channel 2",
-      "url": "http://example.com/drama2",
+      "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=18"
     },
     {
       "name": "Drama Channel 3",
-      "url": "http://example.com/drama3",
+      "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=19"
     },
     {
       "name": "Drama Channel 4",
-      "url": "http://example.com/drama4",
+      "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=20"
     }
   ]
 }
-
