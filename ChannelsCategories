@@ -1,21 +1,25 @@
 {
   "MIchezo": [
     {
+      "id": "michezo-1",
       "name": "Azam Sports 1 HD",
       "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=1"
     },
     {
+      "id": "michezo-2",
       "name": "Azam Sports 2 HD",
       "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=2"
     },
     {
+      "id": "michezo-3",
       "name": "Azam Sports 3 HD",
       "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=3"
     },
     {
+      "id": "michezo-4",
       "name": "Azam Sports 4 HD",
       "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=4"
@@ -23,21 +27,25 @@
   ],
   "Habari": [
     {
+      "id": "habari-1",
       "name": "BBC Swahili",
       "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=5"
     },
     {
+      "id": "habari-2",
       "name": "TBC 1",
       "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=6"
     },
     {
+      "id": "habari-3",
       "name": "Abood TV",
       "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=7"
     },
     {
+      "id": "habari-4",
       "name": "Channel 10",
       "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=8"
@@ -45,21 +53,25 @@
   ],
   "Wanyama": [
     {
+      "id": "wanyama-1",
       "name": "Wildlife Channel 1",
       "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=9"
     },
     {
+      "id": "wanyama-2",
       "name": "Wildlife Channel 2",
       "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=10"
     },
     {
+      "id": "wanyama-3",
       "name": "Wildlife Channel 3",
       "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=11"
     },
     {
+      "id": "wanyama-4",
       "name": "Wildlife Channel 4",
       "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=12"
@@ -67,21 +79,25 @@
   ],
   "Movies": [
     {
+      "id": "movies-1",
       "name": "Movies Channel 1",
       "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=13"
     },
     {
+      "id": "movies-2",
       "name": "Movies Channel 2",
       "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=14"
     },
     {
+      "id": "movies-3",
       "name": "Movies Channel 3",
       "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=15"
     },
     {
+      "id": "movies-4",
       "name": "Movies Channel 4",
       "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=16"
@@ -89,21 +105,25 @@
   ],
   "Tamthilia": [
     {
+      "id": "tamthilia-1",
       "name": "Drama Channel 1",
       "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=17"
     },
     {
+      "id": "tamthilia-2",
       "name": "Drama Channel 2",
       "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=18"
     },
     {
+      "id": "tamthilia-3",
       "name": "Drama Channel 3",
       "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=19"
     },
     {
+      "id": "tamthilia-4",
       "name": "Drama Channel 4",
       "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=20"
