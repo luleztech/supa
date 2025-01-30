@@ -1,44 +1,44 @@
 {
   "MIchezo": [
     {
-      "name": "Sports Channel 1",
+      "name": "Azam Sports 1 HD",
       "url": "https://goliveafrica.media:9998/live/625965017ed69/index.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=1"
     },
     {
-      "name": "Sports Channel 2",
+      "name": "Azam Sports 2 HD",
       "url": "http://example.com/channel2",
       "thumbnail": "https://picsum.photos/200/300?random=2"
     },
     {
-      "name": "Sports Channel 3",
+      "name": "Azam Sports 3 HD",
       "url": "https://goliveafrica.media:9998/live/625965017ed69/index.m3u8",
       "thumbnail": "https://picsum.photos/200/300?random=3"
     },
     {
-      "name": "Sports Channel 4",
+      "name": "Azam Sports 4 HD",
       "url": "http://example.com/channel4",
       "thumbnail": "https://picsum.photos/200/300?random=4"
     }
   ],
   "Habari": [
     {
-      "name": "News Channel 1",
+      "name": "BBC Swahili",
       "url": "http://example.com/news1",
       "thumbnail": "https://picsum.photos/200/300?random=5"
     },
     {
-      "name": "News Channel 2",
+      "name": "TBC 1",
       "url": "http://example.com/news2",
       "thumbnail": "https://picsum.photos/200/300?random=6"
     },
     {
-      "name": "News Channel 3",
+      "name": "Abood TV",
       "url": "http://example.com/news3",
       "thumbnail": "https://picsum.photos/200/300?random=7"
     },
     {
-      "name": "News Channel 4",
+      "name": "Channel 10",
       "url": "http://example.com/news4",
       "thumbnail": "https://picsum.photos/200/300?random=8"
     }
