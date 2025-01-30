@@ -1,1 +1,113 @@
+{
+  "MIchezo": [
+    {
+      "name": "Sports Channel 1",
+      "url": "http://example.com/channel1",
+      "thumbnail": "https://picsum.photos/200/300?random=1"
+    },
+    {
+      "name": "Sports Channel 2",
+      "url": "http://example.com/channel2",
+      "thumbnail": "https://picsum.photos/200/300?random=2"
+    },
+    {
+      "name": "Sports Channel 3",
+      "url": "http://example.com/channel3",
+      "thumbnail": "https://picsum.photos/200/300?random=3"
+    },
+    {
+      "name": "Sports Channel 4",
+      "url": "http://example.com/channel4",
+      "thumbnail": "https://picsum.photos/200/300?random=4"
+    }
+  ],
+  "Habari": [
+    {
+      "name": "News Channel 1",
+      "url": "http://example.com/news1",
+      "thumbnail": "https://picsum.photos/200/300?random=5"
+    },
+    {
+      "name": "News Channel 2",
+      "url": "http://example.com/news2",
+      "thumbnail": "https://picsum.photos/200/300?random=6"
+    },
+    {
+      "name": "News Channel 3",
+      "url": "http://example.com/news3",
+      "thumbnail": "https://picsum.photos/200/300?random=7"
+    },
+    {
+      "name": "News Channel 4",
+      "url": "http://example.com/news4",
+      "thumbnail": "https://picsum.photos/200/300?random=8"
+    }
+  ],
+  "Wanyama": [
+    {
+      "name": "Wildlife Channel 1",
+      "url": "http://example.com/wildlife1",
+      "thumbnail": "https://picsum.photos/200/300?random=9"
+    },
+    {
+      "name": "Wildlife Channel 2",
+      "url": "http://example.com/wildlife2",
+      "thumbnail": "https://picsum.photos/200/300?random=10"
+    },
+    {
+      "name": "Wildlife Channel 3",
+      "url": "http://example.com/wildlife3",
+      "thumbnail": "https://picsum.photos/200/300?random=11"
+    },
+    {
+      "name": "Wildlife Channel 4",
+      "url": "http://example.com/wildlife4",
+      "thumbnail": "https://picsum.photos/200/300?random=12"
+    }
+  ],
+  "Movies": [
+    {
+      "name": "Movies Channel 1",
+      "url": "http://example.com/movies1",
+      "thumbnail": "https://picsum.photos/200/300?random=13"
+    },
+    {
+      "name": "Movies Channel 2",
+      "url": "http://example.com/movies2",
+      "thumbnail": "https://picsum.photos/200/300?random=14"
+    },
+    {
+      "name": "Movies Channel 3",
+      "url": "http://example.com/movies3",
+      "thumbnail": "https://picsum.photos/200/300?random=15"
+    },
+    {
+      "name": "Movies Channel 4",
+      "url": "http://example.com/movies4",
+      "thumbnail": "https://picsum.photos/200/300?random=16"
+    }
+  ],
+  "Tamthilia": [
+    {
+      "name": "Drama Channel 1",
+      "url": "http://example.com/drama1",
+      "thumbnail": "https://picsum.photos/200/300?random=17"
+    },
+    {
+      "name": "Drama Channel 2",
+      "url": "http://example.com/drama2",
+      "thumbnail": "https://picsum.photos/200/300?random=18"
+    },
+    {
+      "name": "Drama Channel 3",
+      "url": "http://example.com/drama3",
+      "thumbnail": "https://picsum.photos/200/300?random=19"
+    },
+    {
+      "name": "Drama Channel 4",
+      "url": "http://example.com/drama4",
+      "thumbnail": "https://picsum.photos/200/300?random=20"
+    }
+  ]
+}
 
